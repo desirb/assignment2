@@ -1,0 +1,54 @@
+body{
+    font-family: 'Cuprum', sans-serif;
+    font-family: 'Varela Round', sans-serif; 
+    background-color: aliceblue;   
+}
+
+h1{
+    background-image: url(advt2.jpg);
+    padding: 80px;
+    font-size: 80px;
+    text-transform: capitalize;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-size: 190%;
+    text-align: center;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    color: white;
+
+}
+
+h3{
+    font-size: 23px;
+    text-align: center;
+    line-height: 2px;
+}
+
+p{
+    text-align: center;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: right;
+}
+
+.storyline{
+    background-color: yellowgreen;
+    color: white;
+   
+}
+
+.pro{
+    background-color: rgb(156, 145, 229);
+
+}
+
+.ant{
+    background-color: rgb(231, 101, 78);
+}
